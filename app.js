@@ -85,3 +85,30 @@ let answer =
 
 console.log(randomNum "*" 1 "=" answer)
 
+
+
+
+
+
+
+
+
+// Chapter 5 ------------------------------
+// Question no 7
+let Qualification = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.PHIL", "PhD"]
+console.log(Qualification)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
